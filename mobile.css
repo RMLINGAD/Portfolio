@@ -42,6 +42,9 @@
     flex-direction: column;
     padding: 10px;
   }
+  .project-info {
+    margin-right: 0px;
+}
   .projects-display > .project-image img {
     width: 100%;
     border-radius: 10px 10px 0px 0px;
@@ -93,6 +96,9 @@
     height: 180px;
     width: 180px;
   }
+  .project-info {
+    margin-right: 0px;
+}
   .projects-display > .project-image img {
     width: 100%;
     border-radius: 10px 10px 0px 0px;
